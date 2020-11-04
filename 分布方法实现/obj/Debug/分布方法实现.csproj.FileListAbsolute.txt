@@ -1,0 +1,6 @@
+C:\Users\YY\source\repos\Csharp图解教程\分布方法实现\obj\Debug\分布方法实现.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\Csharp图解教程\分布方法实现\bin\Debug\分布方法实现.exe.config
+C:\Users\YY\source\repos\Csharp图解教程\分布方法实现\bin\Debug\分布方法实现.exe
+C:\Users\YY\source\repos\Csharp图解教程\分布方法实现\bin\Debug\分布方法实现.pdb
+C:\Users\YY\source\repos\Csharp图解教程\分布方法实现\obj\Debug\分布方法实现.exe
+C:\Users\YY\source\repos\Csharp图解教程\分布方法实现\obj\Debug\分布方法实现.pdb

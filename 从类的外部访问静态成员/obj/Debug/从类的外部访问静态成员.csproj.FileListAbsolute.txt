@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\Csharp图解教程\从类的外部访问静态成员\bin\Debug\从类的外部访问静态成员.exe.config
+C:\Users\YY\source\repos\Csharp图解教程\从类的外部访问静态成员\bin\Debug\从类的外部访问静态成员.exe
+C:\Users\YY\source\repos\Csharp图解教程\从类的外部访问静态成员\bin\Debug\从类的外部访问静态成员.pdb
+C:\Users\YY\source\repos\Csharp图解教程\从类的外部访问静态成员\obj\Debug\从类的外部访问静态成员.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\Csharp图解教程\从类的外部访问静态成员\obj\Debug\从类的外部访问静态成员.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\Csharp图解教程\从类的外部访问静态成员\obj\Debug\从类的外部访问静态成员.exe
+C:\Users\YY\source\repos\Csharp图解教程\从类的外部访问静态成员\obj\Debug\从类的外部访问静态成员.pdb

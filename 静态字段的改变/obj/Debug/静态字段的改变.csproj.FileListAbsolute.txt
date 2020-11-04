@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\Csharp图解教程\静态字段的改变\bin\Debug\静态字段的改变.exe.config
+C:\Users\YY\source\repos\Csharp图解教程\静态字段的改变\bin\Debug\静态字段的改变.exe
+C:\Users\YY\source\repos\Csharp图解教程\静态字段的改变\bin\Debug\静态字段的改变.pdb
+C:\Users\YY\source\repos\Csharp图解教程\静态字段的改变\obj\Debug\静态字段的改变.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\Csharp图解教程\静态字段的改变\obj\Debug\静态字段的改变.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\Csharp图解教程\静态字段的改变\obj\Debug\静态字段的改变.exe
+C:\Users\YY\source\repos\Csharp图解教程\静态字段的改变\obj\Debug\静态字段的改变.pdb

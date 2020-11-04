@@ -1,0 +1,6 @@
+C:\Users\YY\source\repos\Csharp图解教程\被隐藏基类的访问\bin\Debug\被隐藏基类的访问.exe.config
+C:\Users\YY\source\repos\Csharp图解教程\被隐藏基类的访问\bin\Debug\被隐藏基类的访问.exe
+C:\Users\YY\source\repos\Csharp图解教程\被隐藏基类的访问\bin\Debug\被隐藏基类的访问.pdb
+C:\Users\YY\source\repos\Csharp图解教程\被隐藏基类的访问\obj\Debug\被隐藏基类的访问.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\Csharp图解教程\被隐藏基类的访问\obj\Debug\被隐藏基类的访问.exe
+C:\Users\YY\source\repos\Csharp图解教程\被隐藏基类的访问\obj\Debug\被隐藏基类的访问.pdb

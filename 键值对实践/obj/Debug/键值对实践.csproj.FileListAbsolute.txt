@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\Csharp图解教程\键值对实践\bin\Debug\键值对实践.exe.config
+C:\Users\YY\source\repos\Csharp图解教程\键值对实践\bin\Debug\键值对实践.exe
+C:\Users\YY\source\repos\Csharp图解教程\键值对实践\bin\Debug\键值对实践.pdb
+C:\Users\YY\source\repos\Csharp图解教程\键值对实践\obj\Debug\键值对实践.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\Csharp图解教程\键值对实践\obj\Debug\键值对实践.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\Csharp图解教程\键值对实践\obj\Debug\键值对实践.exe
+C:\Users\YY\source\repos\Csharp图解教程\键值对实践\obj\Debug\键值对实践.pdb

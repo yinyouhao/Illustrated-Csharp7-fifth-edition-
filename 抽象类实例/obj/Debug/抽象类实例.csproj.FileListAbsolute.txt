@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\Csharp图解教程\抽象类实例\bin\Debug\抽象类实例.exe.config
+C:\Users\YY\source\repos\Csharp图解教程\抽象类实例\bin\Debug\抽象类实例.exe
+C:\Users\YY\source\repos\Csharp图解教程\抽象类实例\bin\Debug\抽象类实例.pdb
+C:\Users\YY\source\repos\Csharp图解教程\抽象类实例\obj\Debug\抽象类实例.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\Csharp图解教程\抽象类实例\obj\Debug\抽象类实例.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\Csharp图解教程\抽象类实例\obj\Debug\抽象类实例.exe
+C:\Users\YY\source\repos\Csharp图解教程\抽象类实例\obj\Debug\抽象类实例.pdb

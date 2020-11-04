@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\Csharp图解教程\插入排序\bin\Debug\插入排序.exe.config
+C:\Users\YY\source\repos\Csharp图解教程\插入排序\bin\Debug\插入排序.exe
+C:\Users\YY\source\repos\Csharp图解教程\插入排序\bin\Debug\插入排序.pdb
+C:\Users\YY\source\repos\Csharp图解教程\插入排序\obj\Debug\插入排序.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\Csharp图解教程\插入排序\obj\Debug\插入排序.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\Csharp图解教程\插入排序\obj\Debug\插入排序.exe
+C:\Users\YY\source\repos\Csharp图解教程\插入排序\obj\Debug\插入排序.pdb

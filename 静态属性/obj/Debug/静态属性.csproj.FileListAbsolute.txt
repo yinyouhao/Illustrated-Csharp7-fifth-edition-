@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\Csharp图解教程\静态属性\bin\Debug\静态属性.exe.config
+C:\Users\YY\source\repos\Csharp图解教程\静态属性\bin\Debug\静态属性.exe
+C:\Users\YY\source\repos\Csharp图解教程\静态属性\bin\Debug\静态属性.pdb
+C:\Users\YY\source\repos\Csharp图解教程\静态属性\obj\Debug\静态属性.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\Csharp图解教程\静态属性\obj\Debug\静态属性.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\Csharp图解教程\静态属性\obj\Debug\静态属性.exe
+C:\Users\YY\source\repos\Csharp图解教程\静态属性\obj\Debug\静态属性.pdb

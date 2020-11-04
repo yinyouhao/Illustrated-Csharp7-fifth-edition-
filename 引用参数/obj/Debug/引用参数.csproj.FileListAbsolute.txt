@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\Csharp图解教程\引用参数\bin\Debug\引用参数.exe.config
+C:\Users\YY\source\repos\Csharp图解教程\引用参数\bin\Debug\引用参数.exe
+C:\Users\YY\source\repos\Csharp图解教程\引用参数\bin\Debug\引用参数.pdb
+C:\Users\YY\source\repos\Csharp图解教程\引用参数\obj\Debug\引用参数.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\Csharp图解教程\引用参数\obj\Debug\引用参数.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\Csharp图解教程\引用参数\obj\Debug\引用参数.exe
+C:\Users\YY\source\repos\Csharp图解教程\引用参数\obj\Debug\引用参数.pdb

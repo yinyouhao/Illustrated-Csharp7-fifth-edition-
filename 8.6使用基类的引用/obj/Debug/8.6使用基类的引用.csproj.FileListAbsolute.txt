@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\Csharp图解教程\8.6使用基类的引用\bin\Debug\8.6使用基类的引用.exe.config
+C:\Users\YY\source\repos\Csharp图解教程\8.6使用基类的引用\bin\Debug\8.6使用基类的引用.exe
+C:\Users\YY\source\repos\Csharp图解教程\8.6使用基类的引用\bin\Debug\8.6使用基类的引用.pdb
+C:\Users\YY\source\repos\Csharp图解教程\8.6使用基类的引用\obj\Debug\8.6使用基类的引用.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\Csharp图解教程\8.6使用基类的引用\obj\Debug\8.6使用基类的引用.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\Csharp图解教程\8.6使用基类的引用\obj\Debug\8.6使用基类的引用.exe
+C:\Users\YY\source\repos\Csharp图解教程\8.6使用基类的引用\obj\Debug\8.6使用基类的引用.pdb
